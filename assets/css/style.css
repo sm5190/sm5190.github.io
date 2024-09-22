@@ -242,12 +242,28 @@ h6 {
   right: 0;
   z-index: 1;
 }
+/* 
+#hero .hero-container {
+  position: relative;
+  z-index: 2;
+  min-width: 300px;
+  padding: 0 1rem;
+} */
 
 #hero .hero-container {
   position: relative;
   z-index: 2;
   min-width: 300px;
+  padding: 1rem 3rem;
+  background-color: rgba(207, 203, 203, 0.3); /* Light grey with transparency */
+  border-radius: 10px; /* Optional: gives a smooth rounded effect */
+  max-width: 100%; /* Ensures responsiveness */
+  margin: 3rem auto; /* Center the container */
 }
+.hero-container a {
+  color: rgb(0, 0, 0);
+}
+
 
 #hero h1 {
   margin: 0 0 10px 0;
