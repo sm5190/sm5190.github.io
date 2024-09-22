@@ -250,20 +250,20 @@ h6 {
   padding: 0 1rem;
 } */
 
-#hero .hero-container {
+/* #hero .hero-container {
   position: relative;
   z-index: 2;
   min-width: 300px;
   padding: 1rem 3rem;
   background-color: rgba(207, 203, 203, 0.3); /* Light grey with transparency */
-  border-radius: 10px; /* Optional: gives a smooth rounded effect */
-  max-width: 100%; /* Ensures responsiveness */
-  margin: 3rem auto; /* Center the container */
-}
+  /* border-radius: 10px; /* Optional: gives a smooth rounded effect */
+  /* max-width: 100%; /* Ensures responsiveness */
+  /* margin: 3rem auto; Center the container */
+/* }
 .hero-container a {
   color: rgb(71, 70, 70);
-}
-
+} */
+ */ */ */
 
 #hero h1 {
   margin: 0 0 10px 0;
