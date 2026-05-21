@@ -1,0 +1,169 @@
+{
+  "categories": [
+    { "id": "all", "label": "All" },
+    { "id": "data-cloud", "label": "Data and Cloud" },
+    { "id": "web-android", "label": "Web and Android" },
+    { "id": "system-design", "label": "System Design" },
+    { "id": "others", "label": "Others" }
+  ],
+  "projects": [
+    {
+      "id": "job-copilot",
+      "title": "Job AI Copilot",
+      "category": "data-cloud",
+      "featured": true,
+      "image": "/img/Projects/job-copilot.png",
+      "githubUrl": "https://github.com/sm5190/job-copilot",
+      "tags": ["Python", "LLM", "AWS Lambda", "FastAPI", "Agentic AI"],
+      "description": "Job Application AI Copilot is a production-focused AI platform that helps candidates tailor resumes and reason about job fit through explainable, role-specific feedback. It uses agentic AI pipelines to parse job descriptions, analyze resumes, and surface skill gaps while preserving factual accuracy. The system is built on stateless APIs and serverless infrastructure to support concurrent usage and burst workloads. AI components are treated as modular system parts with bounded reasoning, prompt versioning, and failure-aware workflows."
+    },
+    {
+      "id": "paper-to-code",
+      "title": "Paper to Code",
+      "category": "data-cloud",
+      "featured": true,
+      "image": "/img/Projects/paper-to-code.png",
+      "githubUrl": "https://github.com/sm5190/Paper_to_Code",
+      "tags": ["Python", "LLM", "PDF Processing", "Research Tools"],
+      "description": "Paper to Code is an AI-powered tool that converts algorithm descriptions from research papers into executable code using structured LLM reasoning. It ingests PDFs, extracts relevant algorithmic content, and translates it into clear, runnable implementations. The system treats LLMs as reasoning engines, preserving algorithmic intent while avoiding unsupported or hallucinated steps."
+    },
+    {
+      "id": "predictis",
+      "title": "Predictis",
+      "category": "data-cloud",
+      "featured": false,
+      "image": "/img/Projects/predictis.png",
+      "githubUrl": "https://github.com/sm5190/Predictis",
+      "tags": ["IoT", "Machine Learning", "Mobile", "Healthcare"],
+      "description": "Predictis is a system consisting of a wearable device and mobile application, which allows users to know their risk levels of having CVDs in the future. IoT and ML techniques classify users into risk levels with an F1 score of 80.4% (three-class) and 91% (binary). The stacking classifier incorporating best performing ML algorithms was used for predicting risk levels utilizing the UCI Repository dataset."
+    },
+    {
+      "id": "neural-network-design",
+      "title": "Neural-Network Design",
+      "category": "data-cloud",
+      "featured": false,
+      "image": "/img/Projects/NN.png",
+      "githubUrl": "https://github.com/sm5190/Neural-Network-Design/tree/main",
+      "tags": ["Python", "Neural Networks", "Time Series", "ARMA"],
+      "description": "A Python-based repository focused on key Machine Learning and Time Series Analysis algorithms. It includes implementations of ARMA model simulations, neural network training algorithms such as backpropagation, and hybrid models like Radial Basis Function (RBF) networks with backpropagation."
+    },
+    {
+      "id": "aws-lambda",
+      "title": "AWS Lambda Functions",
+      "category": "data-cloud",
+      "featured": false,
+      "image": "/img/Projects/lambda.png",
+      "githubUrl": "https://github.com/sm5190/restapi-aws-lambda",
+      "tags": ["AWS Lambda", "API Gateway", "RDS", "MySQL", "REST"],
+      "description": "AWS Lambda functions serving as the backend for a MySQL-supported web application. Functions handle REST API endpoints for fetching, adding, and managing categories and books. All APIs are exposed via Amazon API Gateway with the database hosted on AWS RDS."
+    },
+    {
+      "id": "opinion-mining",
+      "title": "Opinion Mining of Tweets Related to Mental Health",
+      "category": "data-cloud",
+      "featured": false,
+      "image": "/img/Projects/PR.png",
+      "githubUrl": "https://github.com/sm5190/Opinion-Mining-PR",
+      "tags": ["Python", "LSTM", "NLP", "Sentiment Analysis"],
+      "description": "An EDA project reflecting public opinion related to common mental health problems through time-series analysis from collected Twitter data. Data annotated using VADER into positive, negative, and neutral classes. LSTM architecture achieves 85% accuracy."
+    },
+    {
+      "id": "body-signal",
+      "title": "Body Signal Analysis of Smokers and Drinkers",
+      "category": "data-cloud",
+      "featured": false,
+      "image": "/img/Projects/ML.png",
+      "githubUrl": "https://github.com/sm5190/Body-Signal-Analysis-of-Smokers-and-Drinkers",
+      "tags": ["Python", "Machine Learning", "Classification", "Clustering"],
+      "description": "Thorough analysis of machine learning methodologies applied to the Smoking and Drinking Dataset with Body Signal. The project delves into regression analysis, classification, clustering, and association rule mining."
+    },
+    {
+      "id": "malicious-url",
+      "title": "Malicious URL Detection",
+      "category": "data-cloud",
+      "featured": false,
+      "image": "/img/Projects/URL.png",
+      "githubUrl": "https://github.com/sm5190/Malicious-URL-Detection",
+      "tags": ["Python", "Machine Learning", "Security", "CNN"],
+      "description": "Utilizing machine learning algorithms for detection and prevention of malicious URLs. Development and evaluation of Decision Trees, Random Forest, Adaboost, KNN, SGD, ExtraTree, SVC, Gaussian NB, and 1D-CNN for identifying malicious URLs."
+    },
+    {
+      "id": "ppd-coach",
+      "title": "PPD Coach",
+      "category": "web-android",
+      "featured": false,
+      "image": "/img/Projects/ppd_coach.png",
+      "githubUrl": "https://github.com/sm5190/PPD-coach",
+      "tags": ["Android", "Healthcare", "3D Animation", "Visual Questionnaires"],
+      "description": "An application for detecting Postpartum Depression in Bangladeshi Mothers using Visual Questionnaires. Scenario-based visual representation of EPDS questionnaires using 3D animation videos integrated into an Android application."
+    },
+    {
+      "id": "papertown",
+      "title": "PaperTown",
+      "category": "web-android",
+      "featured": false,
+      "image": "/img/Projects/Papertown.png",
+      "githubUrl": "https://github.com/sm5190/PaperTown-Book-store",
+      "tags": ["React", "TypeScript", "MySQL", "Java", "REST API"],
+      "description": "A Bookstore web application using a React client app and a Tomcat server with a MySQL database. Single page architecture at client built with React in TypeScript and monolith server architecture having Restful API."
+    },
+    {
+      "id": "asma",
+      "title": "ASMA",
+      "category": "web-android",
+      "featured": false,
+      "image": "/img/Projects/asma.jpg",
+      "githubUrl": "https://github.com/sm5190/A.S.M.A",
+      "tags": ["PHP", "Oracle", "JavaScript", "HTML"],
+      "description": "A system for managing a hair salon. Keeps track of employee salaries, inventory and customer data along with billing. Fully equipped system managing the entire functioning of a hair salon."
+    },
+    {
+      "id": "seeknshare",
+      "title": "SeekNShare",
+      "category": "web-android",
+      "featured": false,
+      "image": "/img/Projects/seekmshare.jpg",
+      "githubUrl": "https://github.com/sm5190/Seek-and-Share",
+      "tags": ["HTML", "CSS", "JavaScript", "Firebase"],
+      "description": "A website built with HTML, CSS and JavaScript with Firebase used as backend."
+    },
+    {
+      "id": "jam-kom",
+      "title": "JAM KOM – A Deep Learning Based Traffic Update System",
+      "category": "system-design",
+      "featured": false,
+      "image": "/img/Projects/SADD.png",
+      "tags": ["Deep Learning", "Mobile", "Traffic Analysis"],
+      "description": "Creating a mobile application called Best Route Analyzer that gives the best route with minimum waiting time after the source and destination area are given."
+    },
+    {
+      "id": "gas-leakage",
+      "title": "Gas Leakage Detector",
+      "category": "others",
+      "featured": false,
+      "image": "/img/Projects/gas.png",
+      "githubUrl": "https://github.com/sm5190/GAS-Leakage-MPMC",
+      "tags": ["IoT", "Embedded", "SMS Alerts"],
+      "description": "An IoT based system capable of detecting gas leaks and sending alert messages via SMS to the user's cellphone as well as triggering an alarm."
+    },
+    {
+      "id": "graphics",
+      "title": "Graphics – 3D & 2D",
+      "category": "others",
+      "featured": false,
+      "image": "/img/Projects/olaf.jpg",
+      "tags": ["OpenGL", "Blender", "C/C++", "Animation"],
+      "description": "Two graphics projects with animations. OpenGL (C & C++) for 2D graphics. 3D graphics project done in Blender with modelling, texturing, shading, rigging, and animations using multiple light sources and camera angles."
+    },
+    {
+      "id": "cypher",
+      "title": "A Game of Cyphers",
+      "category": "others",
+      "featured": false,
+      "image": "/img/Projects/cypher.jpg",
+      "githubUrl": "https://github.com/sm5190/Cypher_Algo",
+      "tags": ["C", "Cryptography", "Algorithms"],
+      "description": "A program in C applying popular encryption algorithms to encrypt the given message."
+    }
+  ]
+}

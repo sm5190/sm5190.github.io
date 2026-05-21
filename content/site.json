@@ -1,0 +1,33 @@
+{
+  "name": "Shutonu Mitra",
+  "title": "Shutonu Mitra",
+  "tagline": "Software | Cloud | AI",
+  "email": "shutonumitra@gmail.com",
+  "resumeUrl": "/Resume_Shutonu.pdf",
+  "typedRoles": [
+    "Backend Engineer",
+    "Cloud Developer",
+    "Applied AI Engineer",
+    "Full Stack Engineer"
+  ],
+  "intro": [
+    "I am a backend-leaning Software Engineer with experience building scalable APIs, cloud-native services, and reliable backend systems in production environments.",
+    "I focus on applied AI, integrating machine learning into real-world software through NLP-driven services, graph-based modeling, and data-intensive platforms."
+  ],
+  "social": [
+    { "label": "GitHub", "href": "https://github.com/sm5190", "icon": "github" },
+    { "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=zTwiYZoAAAAJ&hl=en", "icon": "graduation-cap" },
+    { "label": "Email", "href": "mailto:shutonumitra@gmail.com", "icon": "mail" },
+    { "label": "LinkedIn", "href": "https://www.linkedin.com/in/shutonu-mitra/", "icon": "linkedin" },
+    { "label": "Instagram", "href": "https://www.instagram.com/__tonu___/?hl=en", "icon": "instagram" }
+  ],
+  "nav": [
+    { "id": "hero", "label": "Overview", "icon": "user" },
+    { "id": "interests", "label": "Interests", "icon": "sparkles" },
+    { "id": "resume", "label": "Education & Experience", "icon": "graduation-cap" },
+    { "id": "skills", "label": "Skills", "icon": "code" },
+    { "id": "projects", "label": "Projects", "icon": "folder" },
+    { "id": "research", "label": "Research & Publication", "icon": "book-open" },
+    { "id": "contact", "label": "Contact", "icon": "mail" }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "type": "Graduate Research Assistant",
+      "title": "Social Cyber Vulnerability Index Project",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9768450",
+      "description": "As a Graduate Research Assistant, I collaborated with faculty to extract high-quality data from social media platforms for detecting cyber fraud cascades. I played a key role in defining social cyber vulnerability metrics, which led to a 25% improvement in social scam classification accuracy. I developed advanced multimodal data analytics and algorithms, utilizing Graph Neural Networks and Reinforcement Learning, while applying cutting-edge NLP and deep learning techniques to analyze unstructured text data, ultimately reducing false positives by 20%. Additionally, I contributed to the creation of a geospatial dashboard that maps the Social Cyber Vulnerability Index (SCVI) across different regions.",
+      "publication": "Shutonu Mitra, Qi Zhang, Hemant Purohit, Chang-Tien Lu, and Jin-Hee Cho, \"Towards Inclusive Cybersecurity: Protecting the Vulnerable with Social Cyber Vulnerability Metrics,\" The Sixth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications, 2024. (Accepted)"
+    },
+    {
+      "type": "Undergrad Thesis",
+      "title": "Detection and Prevention of Cyberbullying from Social Media by Exploring Machine Learning Algorithms",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9768450",
+      "description": "This study contributed to introducing a framework for preventing cyberbullying on SM by detecting bullying textual posts by employing sentiment analyses and bullying features through the exploration of ML algorithms. The Random Forest model with TFIDF embedding performs best, achieving 80.8% F1 for bully identification and 87.7% for bully classification.",
+      "links": [
+        { "label": "View Thesis Book", "href": "https://drive.google.com/file/d/1Sk_huNcaSJKzSHHY5MRJBGg719HlPL0I/view" },
+        { "label": "Code", "href": "https://github.com/sm5190/Cyberbully-Detection" },
+        { "label": "View paper", "href": "https://ieeexplore.ieee.org/abstract/document/9768450" }
+      ],
+      "publication": "S. Mitra, T. Tasnim, M. A. R. Islam, N. I. Khan and M. S. Majib, \"A Framework to Detect and Prevent Cyberbullying from Social Media by Exploring Machine Learning Algorithms,\" 2021 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2), 2021, pp. 1-4."
+    },
+    {
+      "type": "Research Article",
+      "title": "Predictis: An IoT and Machine Learning-based System to Predict Risk Level of Cardio-Vascular Diseases",
+      "description": "A system consisting of a wearable device and mobile application allowing users to know their risk levels of having CVDs. IoT and ML techniques classify users with an F1 score of 80.4% (three-class) and 91% (binary). Evaluated from the Human-Computer Interaction (HCI) point of view.",
+      "links": [
+        { "label": "Code", "href": "https://github.com/sm5190/Predictis" },
+        { "label": "View paper", "href": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-023-09104-4" }
+      ],
+      "publication": "Islam, M.N., Raiyan, K.R., Mitra, S. et al. Predictis: an IoT and machine learning-based system to predict risk level of cardio-vascular diseases. BMC Health Serv Res 23, 171 (2023)."
+    },
+    {
+      "type": "Ongoing Research",
+      "title": "PPD COACH: An Application for detecting Postpartum Depression in Bangladeshi Mothers using Visual Questionnaires",
+      "description": "On-going Research (2023–Present)"
+    }
+  ]
+}

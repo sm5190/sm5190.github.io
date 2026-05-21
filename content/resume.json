@@ -1,0 +1,155 @@
+{
+  "interests": [
+    {
+      "title": "Backend Engineering",
+      "icon": "server",
+      "description": "I design and build scalable APIs, microservices, and backend architectures with a focus on performance, fault tolerance, and long-term maintainability."
+    },
+    {
+      "title": "Cloud & Distributed Systems",
+      "icon": "cloud",
+      "description": "Experience building and operating cloud-native systems using containerization, managed services, and distributed data pipelines on modern cloud platforms."
+    },
+    {
+      "title": "Applied AI",
+      "icon": "bot",
+      "description": "I focus on integrating AI and LLM-based features into production systems, emphasizing observability, failure handling, and real-world user impact."
+    },
+    {
+      "title": "Machine Learning",
+      "icon": "brain",
+      "description": "Experience developing and deploying ML and NLP-driven services with attention to evaluation quality, scalability, and maintainable model workflows."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science – Computer Science",
+      "period": "Aug 2023 – May 2025",
+      "institution": "Virginia Polytechnic Institute & State University, USA",
+      "coursework": [
+        "Software Engineering",
+        "Distributed Systems",
+        "Operating Systems",
+        "Cloud Computing & Applications",
+        "Big Data Technologies",
+        "Machine Learning I & II",
+        "Fundamentals of Information Security",
+        "Web & Mobile Application Development"
+      ]
+    },
+    {
+      "degree": "Bachelor of Science – Computer Science & Engineering",
+      "period": "2018 – 2022",
+      "institution": "Military Institute of Science and Technology, Bangladesh",
+      "coursework": [
+        "C Programming",
+        "Object-Oriented Programming (C++ and Java)",
+        "Data Structures & Algorithms",
+        "Database Management Systems",
+        "Operating Systems (Linux)",
+        "Software Engineering",
+        "Computer Architecture",
+        "Microprocessor & Systems Engineering",
+        "Networks & Security",
+        "Compiler Design",
+        "Object-Oriented Analysis & Design",
+        "Web Application Development",
+        "Mobile Application Development",
+        "Human–Computer Interaction"
+      ]
+    },
+    {
+      "degree": "Higher Secondary School Certificate & Science",
+      "period": "2015 – 2017",
+      "institution": "Holy Cross College, Dhaka, Bangladesh",
+      "details": ["HSC Result: 5.00 (In the Scale of 5.00)"]
+    },
+    {
+      "degree": "Secondary School Certificate & Science",
+      "period": "2010 – 2014",
+      "institution": "Holy Cross School, Dhaka, Bangladesh",
+      "details": ["SSC Result: 5.00 (In the Scale of 5.00)", "JSC Result: 5.00 (In the Scale of 5.00)"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Mitra US Computer Solutions",
+      "role": "Full Stack Software Engineer",
+      "period": "June 2025 – Present",
+      "location": "Remote, USA",
+      "highlights": [
+        "Developed an Azure-deployed C#/.NET backend and Angular (TypeScript) internal portal to centralize hiring-to-onboarding tracking across Greenhouse, WinTeam, and Checkr for HR and operations.",
+        "Implemented cross-system integrations from Greenhouse (GHO) into WinTeam using .NET and T-SQL, mapping recruiting and onboarding entities into ERP schemas; integrated Checkr background-check and SSN verification statuses with validation and state propagation.",
+        "Debugged cross-system integration failures by tracing requests and workflow state transitions and validating SQL Server data to identify schema and mapping mismatches, restoring reliable onboarding processing."
+      ]
+    },
+    {
+      "company": "Handshake AI Solutions",
+      "role": "AI Research Fellow",
+      "period": "Aug 2025 – Present",
+      "location": "Remote, USA",
+      "highlights": [
+        "Evaluated large-scale AI agent reasoning traces to identify reproducibility, fairness, and reliability failures.",
+        "Designed realistic failure and adversarial scenarios to stress-test LLM evaluation pipelines.",
+        "Contributed to improving model reliability by exposing high-severity integrity breakdowns missed by standard benchmarks."
+      ]
+    },
+    {
+      "company": "Virginia Tech",
+      "role": "Machine Learning Engineer – Robotics & IoT",
+      "period": "Jun 2025 – Present",
+      "location": "Blacksburg, Virginia, USA",
+      "highlights": [
+        "Built and evaluated reinforcement learning agents with reliability-focused success and retry metrics.",
+        "Developed privacy-preserving sensing pipelines using mmWave radar data for indoor fall detection.",
+        "Productionized ML workflows on AWS SageMaker with automated retraining and low-latency inference."
+      ]
+    },
+    {
+      "company": "Curanostics Inc.",
+      "role": "Back End Engineer",
+      "period": "May 2024 – May 2025",
+      "location": "Atlanta, Georgia, USA",
+      "highlights": [
+        "Built and scaled patient-facing REST APIs as containerized microservices on Google Cloud, improving latency, throughput, and system reliability.",
+        "Delivered production clinician dashboards with a strong focus on performance, resilience, and user experience.",
+        "Established CI/CD pipelines and monitoring to improve deployment frequency and reduce incident recovery time.",
+        "Integrated a production-ready RAG-based medical summarization and Q&A service with observability and failure handling."
+      ]
+    },
+    {
+      "company": "Virginia Tech",
+      "role": "Graduate Research Assistant",
+      "period": "Aug 2024 – May 2025",
+      "location": "Virginia, USA",
+      "highlights": [
+        "Built data pipelines and ML services for large-scale cyber-fraud and social scam analysis.",
+        "Combined graph-based models and NLP pipelines to improve forecasting and explainability.",
+        "Designed visualization systems to surface risk drivers and support decision-making."
+      ]
+    },
+    {
+      "company": "SELISE Digital Platforms",
+      "role": "Data Engineer",
+      "period": "Dec 2021 – Mar 2023",
+      "location": "Dhaka, Bangladesh",
+      "highlights": [
+        "Designed and optimized SQL and NoSQL data stores supporting high-throughput, low-latency production workloads.",
+        "Built and automated large-scale Spark and Airflow pipelines on AWS for data ingestion and analytics.",
+        "Containerized ETL and ML services and deployed them on Kubernetes with autoscaling and rollback strategies.",
+        "Collaborated with product and analytics teams to deliver BI and ML-backed features used across multiple teams."
+      ]
+    },
+    {
+      "company": "Teletalk Bangladesh Ltd.",
+      "role": "Software Engineer Intern",
+      "period": "Feb 2021 – Apr 2021",
+      "location": "Dhaka, Bangladesh",
+      "highlights": [
+        "Engineered backend services for a nationwide, high-traffic exam results platform serving millions of users.",
+        "Implemented performant search and ingestion pipelines using Java, Spring Boot, Redis, and MySQL.",
+        "Diagnosed and resolved production issues related to concurrency, caching, and edge-case handling."
+      ]
+    }
+  ]
+}

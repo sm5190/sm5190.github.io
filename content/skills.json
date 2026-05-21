@@ -1,0 +1,24 @@
+{
+  "skills": [
+    { "name": "Python", "category": "Languages", "level": 90 },
+    { "name": "TypeScript", "category": "Languages", "level": 85 },
+    { "name": "Java", "category": "Languages", "level": 80 },
+    { "name": "C# / .NET", "category": "Languages", "level": 80 },
+    { "name": "AWS", "category": "Cloud", "level": 85 },
+    { "name": "GCP", "category": "Cloud", "level": 80 },
+    { "name": "Azure", "category": "Cloud", "level": 75 },
+    { "name": "Docker", "category": "Cloud", "level": 85 },
+    { "name": "Kubernetes", "category": "Cloud", "level": 75 },
+    { "name": "FastAPI", "category": "Backend", "level": 85 },
+    { "name": "Spring Boot", "category": "Backend", "level": 80 },
+    { "name": "PostgreSQL", "category": "Data", "level": 85 },
+    { "name": "MySQL", "category": "Data", "level": 85 },
+    { "name": "Spark", "category": "Data", "level": 80 },
+    { "name": "Airflow", "category": "Data", "level": 75 },
+    { "name": "React", "category": "Frontend", "level": 80 },
+    { "name": "Angular", "category": "Frontend", "level": 75 },
+    { "name": "LLM / RAG", "category": "AI/ML", "level": 85 },
+    { "name": "PyTorch", "category": "AI/ML", "level": 80 },
+    { "name": "SageMaker", "category": "AI/ML", "level": 75 }
+  ]
+}
